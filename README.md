@@ -1,11 +1,9 @@
 # Simyukkuri2021_Eng
-===
 
 This is an WIP translation of Simyukkuri 2021, any help will be appreciated.
 
 
 ## Orginal Readme Translated
-===
 I will create a Yukkuri simulator.
 
 This project is derived from the following project developed by Mimisuke.
