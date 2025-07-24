@@ -1,39 +1,44 @@
-しむゆっくり 2021
+# Simyukkuri2021_Eng
 ===
 
-ゆっくりのシミュレータを作ります。
+This is an WIP translation of Simyukkuri 2021, any help will be appreciated.
 
-このプロジェクトはMimisuke氏によって開発された以下のプロジェクトから派生したものです。
+
+## Orginal Readme Translated
+===
+I will create a Yukkuri simulator.
+
+This project is derived from the following project developed by Mimisuke.
 
 * https://ja.osdn.net/projects/simyukkuri/
 
-システム要件
+System Requirements
 ---
 
-* JDK8以降の開発環境 (ビルド後はJRE8以降となります)
-* JDK/JREが要求するシステム要件を満たす環境
+* Development environment with JDK8 or later (after building, it will be JRE8 or later)
+* Environment that meets the system requirements for JDK/JRE
 
-使用方法
+How to Use
 ---
-* ビルドにはJDKインストールが前提です。[このあたり](https://adoptopenjdk.net/)から取得しインストールしてください。
-1. このリポジトリをクローンします。
-2. /build の build.batを実行して /build にSimyukkuri.jarを作成してください。
-3. Simyukkuri.jarを実行してください。
-* または、binariesフォルダに過去のリリースが置いてあるのでそこからzipをダウンロードして解凍し、解凍フォルダ内のReadMe.txtに従って実行してください。
+* JDK installation is required for building. Please obtain and install it from [here](https://adoptopenjdk.net/).
+1. Clone this repository.
+2. Run build.bat in /build to create Simyukkuri.jar in /build.
+3. Run Simyukkuri.jar.
+* Alternatively, download and extract the zip from the binaries folder, and follow the instructions in ReadMe.txt in the extracted folder.
 
-プロジェクトに参加するには
----
-
-[CONTRIBUTING](CONTRIBUTING.md)をご覧ください。
-
-ライセンス
+How to Contribute
 ---
 
-しむゆっくりは「[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)」でライセンスされています。
+Please read [CONTRIBUTING](CONTRIBUTING.md).
 
-詳しくは[LICENSE](LICENSE)をご覧ください。
-
-Git管理される前の変更履歴
+License
 ---
 
-[これまでの変更履歴](CHANGELOG.txt)を御覧ください。
+Shimuyukkuri is licensed under the "[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)."
+
+For more details, please see [LICENSE](LICENSE).
+
+Change History Before Git Management
+---
+
+Please see [previous change history](CHANGELOG.txt).
